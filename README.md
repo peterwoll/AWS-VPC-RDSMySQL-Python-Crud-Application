@@ -1,4 +1,4 @@
-Summary of Project:
+Overview of Project:
 
 
 1. AWS VPC, EC2, RDS MySQL and Python Database Application
